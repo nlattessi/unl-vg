@@ -1,0 +1,38 @@
+{"frames": [
+
+{
+	"filename": "00-[NORMAL].png",
+	"frame": {"x":2,"y":2,"w":8,"h":6},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "01-[BUSTER][0].png",
+	"frame": {"x":12,"y":2,"w":12,"h":8},
+	"offset": {"x":0,"y":1}
+}, 
+{
+	"filename": "02-[BUSTER][1].png",
+	"frame": {"x":26,"y":2,"w":10,"h":6},
+	"offset": {"x":0,"y":1}
+}, 
+{
+	"filename": "03-[MEGA_BUSTER][0].png",
+	"frame": {"x":38,"y":2,"w":32,"h":24},
+	"offset": {"x":0,"y":8}
+}, 
+{
+	"filename": "04-[MEGA_BUSTER][1].png",
+	"frame": {"x":2,"y":28,"w":30,"h":22},
+	"offset": {"x":0,"y":8}
+}, 
+{
+	"filename": "05-[MEGA_BUSTER][2].png",
+	"frame": {"x":34,"y":28,"w":32,"h":20},
+	"offset": {"x":0,"y":8}
+}, 
+{
+	"filename": "06-[MEGA_BUSTER][3].png",
+	"frame": {"x":68,"y":28,"w":32,"h":24},
+	"offset": {"x":0,"y":8}
+}],
+}

@@ -1,0 +1,213 @@
+{"frames": [
+
+{
+	"filename": "00-[QUIETO][NORMAL_0][0].png",
+	"frame": {"x":2,"y":2,"w":24,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "01-[QUIETO][NORMAL_0][1].png",
+	"frame": {"x":28,"y":2,"w":24,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "02-[QUIETO][BUSTER_0].png",
+	"frame": {"x":54,"y":2,"w":24,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "03-[QUIETO][BUSTER_1].png",
+	"frame": {"x":80,"y":2,"w":24,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "04-[QUIETO][BUSTER_2].png",
+	"frame": {"x":106,"y":2,"w":24,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "05-[QUIETO][MEGA_BUSTER_0].png",
+	"frame": {"x":132,"y":2,"w":24,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "06-[QUIETO][MEGA_BUSTER_1].png",
+	"frame": {"x":158,"y":2,"w":24,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "07-[CORRIENDO][NORMAL_0][0].png",
+	"frame": {"x":184,"y":2,"w":24,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "08-[CORRIENDO][NORMAL_0][1].png",
+	"frame": {"x":210,"y":2,"w":15,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "09-[CORRIENDO][NORMAL_0][2].png",
+	"frame": {"x":2,"y":28,"w":22,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "10-[CORRIENDO][BUSTER_0][0].png",
+	"frame": {"x":26,"y":28,"w":24,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "11-[CORRIENDO][BUSTER_0][1].png",
+	"frame": {"x":52,"y":28,"w":15,"h":25},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "12-[CORRIENDO][BUSTER_0][2].png",
+	"frame": {"x":69,"y":28,"w":22,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "13-[CORRIENDO][BUSTER_1][0].png",
+	"frame": {"x":93,"y":28,"w":24,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "14-[CORRIENDO][BUSTER_1][1].png",
+	"frame": {"x":119,"y":28,"w":15,"h":25},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "15-[CORRIENDO][BUSTER_1][2].png",
+	"frame": {"x":136,"y":28,"w":22,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "16-[CORRIENDO][BUSTER_2][0].png",
+	"frame": {"x":160,"y":28,"w":24,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "17-[CORRIENDO][BUSTER_2][1].png",
+	"frame": {"x":186,"y":28,"w":15,"h":25},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "18-[CORRIENDO][BUSTER_2][2].png",
+	"frame": {"x":203,"y":28,"w":22,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "19-[CORRIENDO][MEGA_BUSTER_0][0].png",
+	"frame": {"x":2,"y":55,"w":24,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "20-[CORRIENDO][MEGA_BUSTER_0][1].png",
+	"frame": {"x":28,"y":55,"w":15,"h":25},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "21-[CORRIENDO][MEGA_BUSTER_0][2].png",
+	"frame": {"x":45,"y":55,"w":22,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "22-[CORRIENDO][MEGA_BUSTER_1][0].png",
+	"frame": {"x":69,"y":55,"w":24,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "23-[CORRIENDO][MEGA_BUSTER_1][1].png",
+	"frame": {"x":95,"y":55,"w":15,"h":25},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "24-[CORRIENDO][MEGA_BUSTER_1][2].png",
+	"frame": {"x":112,"y":55,"w":22,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "25-[DISPARANDO][NORMAL_0].png",
+	"frame": {"x":136,"y":55,"w":29,"h":24},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "26-[SALTANDO][NORMAL_0].png",
+	"frame": {"x":167,"y":55,"w":26,"h":30},
+	"offset": {"x":0,"y":6}
+}, 
+{
+	"filename": "27-[SALTANDO][BUSTER_0].png",
+	"frame": {"x":195,"y":55,"w":26,"h":30},
+	"offset": {"x":0,"y":6}
+}, 
+{
+	"filename": "28-[SALTANDO][BUSTER_1].png",
+	"frame": {"x":2,"y":87,"w":26,"h":30},
+	"offset": {"x":0,"y":6}
+}, 
+{
+	"filename": "29-[SALTANDO][BUSTER_2].png",
+	"frame": {"x":30,"y":87,"w":26,"h":30},
+	"offset": {"x":0,"y":6}
+}, 
+{
+	"filename": "30-[SALTANDO][MEGA_BUSTER_0].png",
+	"frame": {"x":58,"y":87,"w":26,"h":30},
+	"offset": {"x":0,"y":6}
+}, 
+{
+	"filename": "31-[SALTANDO][MEGA_BUSTER_1].png",
+	"frame": {"x":86,"y":87,"w":26,"h":30},
+	"offset": {"x":0,"y":6}
+}, 
+{
+	"filename": "32-[DESLIZANDO][NORMAL_0].png",
+	"frame": {"x":114,"y":87,"w":27,"h":19},
+	"offset": {"x":0,"y":-5}
+}, 
+{
+	"filename": "33-[DESLIZANDO][BUSTER_0].png",
+	"frame": {"x":143,"y":87,"w":27,"h":19},
+	"offset": {"x":0,"y":-5}
+}, 
+{
+	"filename": "34-[DESLIZANDO][BUSTER_1].png",
+	"frame": {"x":172,"y":87,"w":27,"h":19},
+	"offset": {"x":0,"y":-5}
+}, 
+{
+	"filename": "35-[DESLIZANDO][BUSTER_2].png",
+	"frame": {"x":2,"y":119,"w":27,"h":19},
+	"offset": {"x":0,"y":-5}
+}, 
+{
+	"filename": "36-[DESLIZANDO][MEGA_BUSTER_0].png",
+	"frame": {"x":31,"y":119,"w":27,"h":19},
+	"offset": {"x":0,"y":-5}
+}, 
+{
+	"filename": "37-[DESLIZANDO][MEGA_BUSTER_1].png",
+	"frame": {"x":60,"y":119,"w":27,"h":19},
+	"offset": {"x":0,"y":-5}
+}, 
+{
+	"filename": "38-[CORRIENDO_DISPARANDO][NORMAL_0][0].png",
+	"frame": {"x":89,"y":119,"w":28,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "39-[CORRIENDO_DISPARANDO][NORMAL_0][1].png",
+	"frame": {"x":119,"y":119,"w":21,"h":25},
+	"offset": {"x":0,"y":0}
+}, 
+{
+	"filename": "40-[CORRIENDO_DISPARANDO][NORMAL_0][2].png",
+	"frame": {"x":142,"y":119,"w":25,"h":23},
+	"offset": {"x":0,"y":-1}
+}, 
+{
+	"filename": "41-[SALTANDO_DISPARANDO][NORMAL_0].png",
+	"frame": {"x":169,"y":119,"w":28,"h":30},
+	"offset": {"x":0,"y":6}
+}],
+}
